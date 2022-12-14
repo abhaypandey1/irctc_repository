@@ -20,7 +20,7 @@
 
 <build>
      <finalName>irctc_app</finalName>
-  <plugins>
+    <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-war-plugin</artifactId>
